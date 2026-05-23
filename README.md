@@ -55,10 +55,13 @@ I am an Informatics Engineering student passionate about both Front-End and Back
 
 ### 📊 GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilhanmanzis&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Ilhan's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhanmanzis&theme=dracula&hide_border=true&background=0D1117" alt="Ilhan's GitHub Streak" />
-</p>
+<div align="center">
+  
+[![Ilhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilhanmanzis&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117)](https://github.com/ilhanmanzis)
+
+[![Ilhan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilhanmanzis&theme=dracula&hide_border=true&background=0D1117)](https://github.com/ilhanmanzis)
+
+</div>
 
 ---
 
