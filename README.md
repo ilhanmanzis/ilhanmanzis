@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer
 
-I am an Informatics Engineering student passionate about both Front-End and Back-End development. Balancing my time between building scalable web applications and mentoring vocational students, I bring a unique, education-driven perspective to software engineering. I specialize in crafting engaging digital experiences and consistently strive to deliver optimal, high-quality solutions for every project I undertake.
+I am an Informatics Engineering student passionate about both Front-End and Back-End development. Balancing my time between building scalable web applications and mentoring vocational students, I b[...]
 
 > *"Building robust solutions through clean code and continuous innovation."*
 
@@ -26,6 +26,7 @@ I am an Informatics Engineering student passionate about both Front-End and Back
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
@@ -35,9 +36,9 @@ I am an Informatics Engineering student passionate about both Front-End and Back
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**Advanced Teacher Attendance System**](https://github.com/ilhanmanzis/presensiwajah) | High-security attendance system utilizing `face-api.js` for facial recognition and strict GPS Geofencing validation. | Next.js, Node.js, Prisma, PostgreSQL |
-| [**Employee Management System (SIMPEG)**](https://github.com/ilhanmanzis/simpeg) | Campus-wide HR platform featuring native PHP integration of the K-Means clustering algorithm for employee analytics. | Laravel 12, K-Means, MySQL |
-| [**Booming Game POS & Finance**](https://github.com/ilhanmanzis/pos) | Comprehensive operational tracker, shift management, and automated loyalty program for a local rental business. | Laravel 11, Tailwind CSS |
+| [**Advanced Teacher Attendance System**](https://github.com/ilhanmanzis/presensiwajah) | High-security attendance system utilizing `face-api.js` for facial recognition and strict GPS Geofencing [...]
+| [**Employee Management System (SIMPEG)**](https://github.com/ilhanmanzis/simpeg) | Campus-wide HR platform featuring native PHP integration of the K-Means clustering algorithm for employee analy[...]
+| [**Booming Game POS & Finance**](https://github.com/ilhanmanzis/pos) | Comprehensive operational tracker, shift management, and automated loyalty program for a local rental business. | Laravel 1[...]
 | [**Bengkel Las Manser**](https://github.com/ilhanmanzis/bengkelas) | Dynamic SEO-optimized company profile with an elegant backend CMS powered by Laravel Filament. | Laravel 12, Filament |
 
 > 🌐 **Discover more detailed case studies on my official website:** [**ilhanmanzis.my.id**](https://ilhanmanzis.my.id)
