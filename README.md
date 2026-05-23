@@ -1,20 +1,11 @@
 # Hi there, I'm Ilhan Manzis 👋
 
-### Full-Stack Developer | Tech Educator | Problem Solver
+### Full-Stack Developer
 
 I am an Informatics Engineering student passionate about both Front-End and Back-End development. Balancing my time between building scalable web applications and mentoring vocational students, I bring a unique, education-driven perspective to software engineering. I specialize in crafting engaging digital experiences and consistently strive to deliver optimal, high-quality solutions for every project I undertake.
 
 > *"Building robust solutions through clean code and continuous innovation."*
 
----
-
-### 🚀 What I'm Up To
-- 🔭 **Currently working on:** Expanding freelance client projects and finalizing my university capstone project.
-- 🌱 **Currently learning:** Advanced implementations of **Machine Learning (K-Means & Decision Trees)** natively in PHP, and exploring the **Next.js** ecosystem.
-- 👨‍🏫 **Community:** Teaching and empowering 10th-grade vocational students (SMK) in informatics subjects.
-- ⚡ **Fun fact:** When I'm not debugging code, you can usually find me cultivating and shaping bonsai trees, or planning my next hiking trip.
-
----
 
 ### 💻 Tech Stack & Tools
 
